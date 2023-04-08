@@ -1,4 +1,4 @@
-# wp-search
+# wp-search by Post Type
 search box by post type
 
 
